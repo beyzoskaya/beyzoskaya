@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a Computer Science student at Ozyegin Universi
 
 ## About Me
 
-- 🔭 I am currently studying Computer Science and Industrial Engineering at Özyeğin University. 
+- 🔭 I am currently studying Computer Science at Özyeğin University. 
 - 🎓 I will graduate in June 2024 
 - 👩🏼‍💻 I am currently working in my senior design project, focused on exploring Generative Models, particularly    those based on Stable Diffusion.
   
