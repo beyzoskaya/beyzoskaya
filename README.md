@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Beyza Kaya!🙈
 
-<!--
-**beyzoskaya/beyzoskaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Computer Science student at Ozyegin University , enthusiastic about exploring new AI techniques, emerging areas, and various machine learning methods.In addition to my current studies, I have a background in Industrial Engineering.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I am currently studying Computer Science and Industrial Engineering at Özyeğin University. 
+- 🎓 I will graduate in June 2024 
+- 👩🏼‍💻 I am currently working in my senior design project, focused on exploring Generative Models, particularly    those based on Stable Diffusion.
+  
+## Skills
+- 💻 Programming Languages: Python / C++
+- 🎮 Frameworks: PyTorch, Scikit-learn, pandas, numpy
+
+## Connect on
+- 🔗 LinkedIn: [Beyza Kaya](linkedin.com/in/beyza-kaya-461271225)
+- 🔗 GitHub: [beyzoskaya](https://github.com/beyzoskaya)
+
