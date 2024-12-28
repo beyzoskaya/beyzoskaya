@@ -1,12 +1,11 @@
 ### Hi there, I'm Beyza Kaya!🙈
 
-Welcome to my GitHub profile! I'm a Computer Science student at Ozyegin University , enthusiastic about exploring new AI techniques, emerging areas, and various machine learning methods.In addition to my current studies, I have a background in Industrial Engineering.
+Welcome to my GitHub profile! I'm a Master Student in Aritificial Intelligence -specifically Bioinformaticsat- Ozyegin University , enthusiastic about exploring new AI techniques, emerging areas, and various machine learning methods.In addition to my current studies, I have a background in Industrial Engineering.
 
 ## About Me
 
-- 🔭 I am currently studying Computer Science at Özyeğin University. 
-- 🎓 I will graduate in June 2024 
-- 👩🏼‍💻 I am currently working in my senior design project, focused on exploring Generative Models, particularly    those based on Stable Diffusion.
+- 🔭 I am currently working in Bioinformatic area at Özyeğin University.  
+- 👩🏼‍💻 I am currently working in research area of Hi-C interactions and the prediction of chromsomes with graph specific models.
   
 ## Skills
 - 💻 Programming Languages: Python / C++
