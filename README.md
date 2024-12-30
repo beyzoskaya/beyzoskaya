@@ -1,6 +1,6 @@
 ### Hi there, I'm Beyza Kaya!🙈
 
-Welcome to my GitHub profile! I'm a Master Student in Aritificial Intelligence -specifically Bioinformaticsat- Ozyegin University , enthusiastic about exploring new AI techniques, emerging areas, and various machine learning methods.In addition to my current studies, I have a background in Industrial Engineering.
+Welcome to my GitHub profile! I'm a Master Student in Aritificial Intelligence -specifically Bioinformatics- at Ozyegin University , enthusiastic about exploring new AI techniques, emerging areas, and various machine learning methods.In addition to my current studies, I have a background in Industrial Engineering.
 
 ## About Me
 
