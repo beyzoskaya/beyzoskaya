@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a Master Student in Aritificial Intelligence -
 
 ## About Me
 
-- 🔭 I am currently working in Bioinformatic area at Özyeğin University.  
+- 🔭 I am currently working in Bioinformatics at Özyeğin University.  
 - 👩🏼‍💻 I am currently working in research area of Hi-C interactions and the prediction of chromsomes with graph specific models.
   
 ## Skills
