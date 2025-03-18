@@ -12,6 +12,6 @@ Welcome to my GitHub profile! I'm a Master Student in Aritificial Intelligence -
 - 🎮 Frameworks: PyTorch, Scikit-learn, pandas, numpy
 
 ## Connect on
-- 🔗 LinkedIn: [Beyza Kaya]((https://www.linkedin.com/in/beyza-kaya-461271225/))
+- 🔗 LinkedIn: [Beyza Kaya](https://www.linkedin.com/in/beyza-kaya-461271225/)
 - 🔗 GitHub: [beyzoskaya](https://github.com/beyzoskaya)
 
