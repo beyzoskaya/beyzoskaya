@@ -1,11 +1,11 @@
 ### Hi there, I'm Beyza Kaya!🙈
 
-Welcome to my GitHub profile! I'm a Master Student in Aritificial Intelligence -specifically Bioinformatics- at Ozyegin University , enthusiastic about exploring new AI techniques, emerging areas, and various machine learning methods.In addition to my current studies, I have a background in Industrial Engineering.
+Welcome to my GitHub profile! I'm a Master Student in Aritificial Intelligence -specifically Bioinformatics- at Ozyegin University , enthusiastic about exploring new AI techniques, emerging areas, and various machine learning methods.In addition to my current studies, I have a background in Industrial Engineering with double major degree.
 
 ## About Me
 
 - 🔭 I am currently working in Bioinformatics at Özyeğin University.  
-- 👩🏼‍💻 I am currently working in research area of Hi-C interactions and the prediction of chromsomes with graph specific models.
+- 👩🏼‍💻 My current study focuses on area of gene expression prediction for miRNA/mRNA interactive target gene sets with Spatio-Temporal Graph Models and their biological interpretations with Gene Ontology analysis.
   
 ## Skills
 - 💻 Programming Languages: Python / C++
