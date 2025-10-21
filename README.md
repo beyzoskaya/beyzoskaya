@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile! I'm a Master Student in Aritificial Intelligence -specifically Bioinformatics- at Ozyegin University , enthusiastic about exploring new AI techniques, emerging areas, and various machine learning methods.In addition to my current studies, I have a background in Industrial Engineering with double major degree.
 
-![GitHub Dog animation](https://github.com/DenverCoder1/github-readme-snek/raw/main/snek.svg?animal=dog)
-
 ## About Me
 
 - 🔭 I am currently working in Bioinformatics at Özyeğin University.  
