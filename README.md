@@ -1,6 +1,6 @@
 <!-- Top GIF banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8a54d50e-27da-4a11-9d69-52b8c2b5d894" width="600">
+  <img src="[https://github.com/user-attachments/assets/8a54d50e-27da-4a11-9d69-52b8c2b5d894](https://github.com/user-attachments/assets/d12ad057-7daa-4dbf-86db-6ef4c6db9f58)" width="400">
 </p>
 
 ### Hi there, I'm Beyza Kaya! 🙈
