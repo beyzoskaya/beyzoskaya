@@ -1,6 +1,6 @@
-<!-- Top GIF -->
+<!-- Top GIF banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8a54d50e-27da-4a11-9d69-52b8c2b5d894" width="100%">
+  <img src="https://github.com/user-attachments/assets/8a54d50e-27da-4a11-9d69-52b8c2b5d894" width="600">
 </p>
 
 ### Hi there, I'm Beyza Kaya! 🙈
@@ -19,4 +19,3 @@ Welcome to my GitHub profile! I'm a Master Student in Artificial Intelligence �
 - 🔗 [LinkedIn](https://www.linkedin.com/in/beyza-kaya-461271225/)  
 - 🔗 [GitHub](https://github.com/beyzoskaya)  
 - 🔗 [Google Scholar](https://scholar.google.com/citations?user=S2vlwawAAAAJ&hl=en)
-
