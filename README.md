@@ -1,7 +1,5 @@
-<!-- Top GIF banner -->
-<p align="center">
-  <img src="[https://github.com/user-attachments/assets/8a54d50e-27da-4a11-9d69-52b8c2b5d894](https://github.com/user-attachments/assets/d12ad057-7daa-4dbf-86db-6ef4c6db9f58)" width="400">
-</p>
+
+![Working Season 1 GIF by Paramount+](https://github.com/user-attachments/assets/955eac9b-47fd-4268-a3b0-e801f83fd791)
 
 ### Hi there, I'm Beyza Kaya! 🙈
 
