@@ -1,5 +1,8 @@
 ### Hi there, I'm Beyza Kaya!🙈
 
+![Work Coding GIF by Pudgy Penguins](https://github.com/user-attachments/assets/8a54d50e-27da-4a11-9d69-52b8c2b5d894)
+
+
 Welcome to my GitHub profile! I'm a Master Student in Aritificial Intelligence -specifically Bioinformatics- at Ozyegin University , enthusiastic about exploring new AI techniques, emerging areas, and various machine learning methods.In addition to my current studies, I have a background in Industrial Engineering with double major degree.
 
 ## About Me
