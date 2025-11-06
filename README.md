@@ -1,5 +1,7 @@
-
-![Working Season 1 GIF by Paramount+](https://github.com/user-attachments/assets/955eac9b-47fd-4268-a3b0-e801f83fd791)
+<!-- Top rectangular GIF banner -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/955eac9b-47fd-4268-a3b0-e801f83fd791" width="700" height="250">
+</p>
 
 ### Hi there, I'm Beyza Kaya! 🙈
 
@@ -17,3 +19,4 @@ Welcome to my GitHub profile! I'm a Master Student in Artificial Intelligence �
 - 🔗 [LinkedIn](https://www.linkedin.com/in/beyza-kaya-461271225/)  
 - 🔗 [GitHub](https://github.com/beyzoskaya)  
 - 🔗 [Google Scholar](https://scholar.google.com/citations?user=S2vlwawAAAAJ&hl=en)
+
